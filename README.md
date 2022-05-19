@@ -1,2 +1,2 @@
 # projects-lv7
-lv7 - napredno web programiranje
+lv7 zadatak - napredno web programiranje
